@@ -26,7 +26,7 @@ A finite feed organised around what matters right now. Posts are grouped into no
 - **Built with:** React, TypeScript, Vite and Tailwind CSS.
 - **Status:** Working reader with prepared feed snapshots and local interactions. The AI-ranking evaluation is a plan, not a published benchmark.
 
-[Try the demo](https://heimdall-aae.pages.dev/) · [Read the evaluation plan](https://github.com/GG100-eng/heimdall/blob/main/docs/evaluation-plan.md)
+[Read the evaluation plan](https://github.com/GG100-eng/heimdall/blob/main/docs/evaluation-plan.md)
 
 ### [Local AI Health Companion](https://github.com/GG100-eng/Local-AI-Health)
 
